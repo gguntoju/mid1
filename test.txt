@@ -5,3 +5,5 @@ These are comments from Terminal to my file by Giri Guntoju
 3. One more change from Web
 
 4. Question 2-IV changes for fetch and merge
+
+5. Changes fixing the Merge
